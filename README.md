@@ -90,7 +90,7 @@ A technology company website built to present software development, web developm
 
 ---
 
-### 🌐 SkyVerge Technologies
+### 🌐 Non Government Organization / Non-profit website
 
 A technology company website built to present software development, web development, mobile application, and digital technology services.
 
