@@ -2,160 +2,117 @@
 
 ### Software Developer | PHP & Laravel | Full-Stack Web & Mobile
 
-I’m a Software Developer focused on building **web applications, business management systems, REST APIs, and mobile applications**.
+I’m a Software Developer specializing in **PHP, Laravel, MySQL, JavaScript, Flutter, REST APIs, and WordPress**. I build web and mobile applications that solve real business problems, with a strong focus on backend development, database design, API integration, and practical business automation.
 
-I use **PHP, Laravel, MySQL, JavaScript, Flutter, and WordPress** to turn business requirements into practical, scalable software solutions.
+I enjoy turning ideas and business requirements into **reliable, scalable, and user-friendly software solutions**.
 
-🔭 **Currently building:** Business systems, LMS platforms, mobile apps, and custom web applications  
-💼 **Open to:** Remote & On-site Software Developer opportunities  
-🌍 **Based in:** Uganda  
-🚀 **Focus:** Backend development, full-stack applications, APIs, and business automation
+**Currently building:** Business management systems, LMS platforms, REST APIs, mobile applications, and custom web solutions.
+
+**Open to:** Remote and on-site Software Development opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Backend
-- PHP
-- Laravel
-- REST APIs
-- MySQL
-- Java
-- Spring Boot
+My primary development stack is **PHP and Laravel** for backend development, with **MySQL** for database management and **JavaScript, HTML, and CSS** for web interfaces. I also build cross-platform mobile applications using **Flutter and Dart**, connecting them to backend systems through REST APIs.
 
-### Frontend
-- JavaScript
-- HTML5
-- CSS3
-- Responsive Web Design
+For content-driven and business websites, I work with **WordPress, WooCommerce, Elementor, and SEO**. I also have experience with **Java and Spring Boot** and use tools such as **Git, GitHub, VS Code, Postman, Linux, VPS hosting, and shared hosting**.
 
-### Mobile
-- Flutter
-- Dart
-- REST API Integration
-
-### CMS & Web
-- WordPress
-- WooCommerce
-- Elementor
-- SEO
-
-### Tools
-- Git & GitHub
-- VS Code
-- Postman
-- MySQL
-- Linux
-- VPS & Shared Hosting
-
-### AI Development Tools
-- ChatGPT
-- GitHub Copilot
-- Claude
-- Gemini
-- DeepSeek
+I also use modern AI-assisted development tools including **ChatGPT, GitHub Copilot, Claude, Gemini, and DeepSeek** to improve development workflows, research solutions, and increase productivity.
 
 ---
 
 ## 💻 What I Build
 
-I build software solutions such as:
+I develop software for different business and organizational needs, including **Hospital Management Systems, Learning Management Systems, SACCO and Loan Management Systems, Real Estate Platforms, Car Rental Systems, Restaurant and Bar Management Systems, E-commerce Platforms, and custom business applications**.
 
-- 🏥 Hospital Management Systems
-- 🎓 Learning Management Systems (LMS)
-- 💰 SACCO & Loan Management Systems
-- 🏠 Real Estate Management Systems
-- 🚗 Car Rental Systems
-- 🍽️ Restaurant & Bar Management Systems
-- 🛒 E-commerce Websites
-- 📱 Mobile Applications
-- 🔌 REST APIs
-- 🌐 Business Websites
-- ⚙️ Custom Business Management Systems
+I also develop **REST APIs and Flutter mobile applications**, as well as responsive business websites using Laravel, WordPress, and modern web technologies.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎓 Learning Management System
-A web-based platform for managing courses, instructors, students, units, notes, and learning activities.
 
-**Tech:** Laravel, PHP, MySQL, JavaScript
+A comprehensive learning platform for managing **students, instructors, courses, units, notes, learning activities, and user access**.
+
+**Built with:** Laravel, PHP, MySQL, JavaScript and REST APIs.
+
+---
+
+### 🏥 Hospital Management System
+
+A centralized hospital platform for managing **patients, doctors, staff, appointments, medical records, departments, billing, and role-based user access**.
+
+**Built with:** Laravel, PHP, MySQL and JavaScript.
 
 ---
 
 ### 💰 SACCO & Loan Management System
-A management system designed to help SACCOs manage members, savings, loans, repayments, and financial operations.
 
-**Tech:** Laravel, PHP, MySQL, JavaScript
+A business management system designed to manage **members, savings, loans, repayments, and SACCO operations** through a centralized platform.
+
+**Built with:** Laravel, PHP, MySQL and JavaScript.
 
 ---
 
 ### 🏠 Real Estate Management System
-A platform for managing property listings, real estate information, and property-related operations.
 
-**Tech:** Laravel, PHP, MySQL, JavaScript
+A web-based platform for managing **properties, property listings, clients, and real estate operations**.
+
+**Built with:** Laravel, PHP, MySQL and JavaScript.
 
 ---
 
 ### 🚗 Car Rental Platform
-A web platform for managing vehicle listings, rental services, customer inquiries, and bookings.
 
-**Tech:** WordPress, PHP, JavaScript
+A car rental website designed to showcase vehicles and support rental-related customer interactions.
+
+**Built with:** WordPress, PHP and JavaScript.
 
 🔗 https://rentacar.ug/
 
 ---
 
 ### 🌐 SkyVerge Technologies
-A technology company website showcasing software development, web development, mobile applications, and digital services.
+
+A technology company website built to present software development, web development, mobile application, and digital technology services.
+
+**Built with:** WordPress, PHP, JavaScript and SEO.
 
 🔗 https://skyvergetechnologies.com/
 
 ---
 
-## 📈 What I'm Currently Improving
+## 🎯 Development Focus
 
-- Advanced Laravel development
-- REST API architecture
-- Flutter mobile development
-- Database design
-- Cloud & VPS deployment
-- Software architecture
-- Modern JavaScript
-- System security
-- AI-assisted software development
+My current focus is on becoming a stronger **full-stack and backend developer**, particularly in advanced Laravel development, REST API architecture, database design, Flutter application development, software architecture, security, and cloud/VPS deployment.
+
+I’m continuously learning and improving my ability to build software that is maintainable, secure, scalable, and useful in real-world environments.
 
 ---
 
-## 🤝 What I Can Help With
+## 🤝 What I Can Do
 
-- PHP & Laravel Development
-- Full-Stack Web Development
-- REST API Development
-- Flutter Mobile Applications
-- MySQL Database Design
-- WordPress Development
-- Business Management Systems
-- Website Development
-- API Integration
-- VPS Deployment & Maintenance
+I can help businesses and organizations **design, develop, deploy, and maintain software solutions**. My work includes Laravel and PHP development, full-stack web applications, REST APIs, Flutter mobile applications, MySQL database design, WordPress websites, API integrations, business management systems, and VPS deployment.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyBiverson&show_icons=true&theme=default)
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyBiverson\&show_icons=true\&theme=default)
 
 ---
 
 ## 📫 Let's Connect
 
-📧 **Email:** jimmiebiverson@gmail.com  
-💻 **GitHub:** https://github.com/JimmyBiverson
+If you're looking for a developer to build or improve a web application, mobile application, business system, or API, feel free to reach out.
+
+**Email:** [jimmiebiverson@gmail.com](mailto:jimmiebiverson@gmail.com)
+**GitHub:** https://github.com/JimmyBiverson
 
 ---
 
 ### 💡 My Goal
 
-To build reliable software that solves real business problems while continuously growing as a software developer.
+To build **reliable software that solves real-world problems**, contribute to meaningful technology projects, and continuously grow as a professional software developer.
