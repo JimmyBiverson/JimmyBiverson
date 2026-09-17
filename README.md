@@ -38,6 +38,8 @@ A comprehensive learning platform for managing **students, instructors, courses,
 
 **Built with:** Laravel, PHP, MySQL, JavaScript and REST APIs.
 
+🔗  https://lms-sample.duckdns.org/
+
 ---
 
 ### 🏥 Hospital Management System
