@@ -94,10 +94,9 @@ A technology company website built to present software development, web developm
 
 A modern community organization website built to showcase programs, projects, impact, volunteer opportunities, donations, and community activities while providing an easy way for visitors to connect with the organization.
 
-
 **Built with:** WordPress, PHP, JavaScript and SEO.
 
-🔗 https://skyvergetechnologies.com/
+🔗 https://ngosite.duckdns.org/
 
 ---
 
