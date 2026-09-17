@@ -92,7 +92,8 @@ A technology company website built to present software development, web developm
 
 ### 🌐 Non Government Organization / Non-profit website
 
-A technology company website built to present software development, web development, mobile application, and digital technology services.
+A modern community organization website built to showcase programs, projects, impact, volunteer opportunities, donations, and community activities while providing an easy way for visitors to connect with the organization.
+
 
 **Built with:** WordPress, PHP, JavaScript and SEO.
 
