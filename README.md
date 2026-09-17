@@ -56,6 +56,8 @@ A business management system designed to manage **members, savings, loans, repay
 
 **Built with:** Laravel, PHP, MySQL and JavaScript.
 
+🔗  https://mubendesacco.duckdns.org/
+
 ---
 
 ### 🏠 Real Estate Management System
@@ -63,6 +65,8 @@ A business management system designed to manage **members, savings, loans, repay
 A web-based platform for managing **properties, property listings, clients, and real estate operations**.
 
 **Built with:** Laravel, PHP, MySQL and JavaScript.
+
+🔗  https://real-estate-agency.duckdns.org/
 
 ---
 
